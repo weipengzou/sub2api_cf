@@ -2,7 +2,10 @@
   "$schema": "node_modules/wrangler/config-schema.json",
   "name": "sub2api-cf",
   "main": "src/index.ts",
-  "compatibility_date": "2026-03-10"
+  "compatibility_date": "2026-03-10",
+  "observability": {
+    "enabled": true
+  }
   // "compatibility_flags": [
   //   "nodejs_compat"
   // ],

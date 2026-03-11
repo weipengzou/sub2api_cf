@@ -1,0 +1,2 @@
+export const API_KEY = 'sk-537e8d3ab87bfebde557d2ee704ae2e56ca4997cf9ce3e9a93eb50542b19ea00'
+export const OPENAI_API_KEY = 'sk-8005d8933ab799990f2cf6bfcc29235854ec67d55578317f9a6121c14d092097'
